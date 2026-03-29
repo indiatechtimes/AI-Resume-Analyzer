@@ -1,0 +1,14 @@
+// Application-level settings for the Runner target.
+//
+// This may be replaced with something auto-generated from metadata (e.g., pubspec.yaml) in the
+// future. If not, the values below would default to using the project name when this becomes a
+// 'flutter create' template.
+
+// The application's name. By default this is also the title of the Flutter window.
+PRODUCT_NAME = a_i_r_e_s_u_m_e_a_n_al_y_z_e_r
+
+// The application's bundle identifier
+PRODUCT_BUNDLE_IDENTIFIER = indiatechtimes.aIRESUMEANAlYZEr
+
+// The copyright displayed in application information
+PRODUCT_COPYRIGHT = Copyright © 2026 indiatechtimes. All rights reserved.
